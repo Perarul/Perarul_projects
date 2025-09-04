@@ -1,12 +1,11 @@
-<!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Perarul Selvan R Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E97FF&height=200&section=header&text=Perarul%20Selvan%20R&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Profile Banner"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2E97FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Perarul+Selvan+R;Oracle+Trainee+Consultant;ERP+%7C+PL%2FSQL+%7C+Fusion+Developer;Passionate+about+Automation+%26+Optimization" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2E97FF&center=true&vCenter=true&width=600&lines=Oracle+Trainee+Consultant;ERP+%7C+PL%2FSQL+%7C+Fusion+Developer;Passionate+about+Automation+%26+Optimization" alt="Typing Animation" />
 </p>
+
 
 
 # 👋 Hi, I'm Perarul Selvan R
