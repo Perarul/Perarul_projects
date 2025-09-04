@@ -6,6 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2E97FF&center=true&vCenter=true&width=600&lines=Oracle+Trainee+Consultant;ERP+%7C+PL%2FSQL+%7C+Fusion+Developer;Passionate+about+Automation+%26+Optimization" alt="Typing Animation" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Perarul/Perarul/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+## 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Perarul&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+## 🎶 Now Playing on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
+</p>
 
 
 # 👋 Hi, I'm Perarul Selvan R
