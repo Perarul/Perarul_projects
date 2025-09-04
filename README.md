@@ -7,8 +7,6 @@
 </p>
 
 
-# Perarul_projects
-
 # 👋 Hi, I'm Perarul Selvan R
 
 💻 **Oracle Trainee Consultant | ERP Developer | Database Enthusiast**  
