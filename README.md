@@ -6,16 +6,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2E97FF&center=true&vCenter=true&width=600&lines=Oracle+Trainee+Consultant;ERP+%7C+PL%2FSQL+%7C+Fusion+Developer;Passionate+about+Automation+%26+Optimization" alt="Typing Animation" />
 </p>
 
+
 ## 🏅 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Perarul&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
-# 👋 Hi, I'm Perarul Selvan R
+# 👋 Hi, I'm Perarul Selvan R 
+Welcome to my **Oracle ERP Projects Portfolio** 🎯  
+This repo highlights my projects delivered at **Quadrobay Technologies Pvt Ltd** as an **Internship Trainee & Trainee Consultant**, with real-world client implementations in **Oracle EBS & Fusion**.
+ 
 
 💻 **Oracle Trainee Consultant | ERP Developer | Database Enthusiast**  
 🚀 Skilled in Oracle EBS R12, Oracle Fusion ERP, SQL, PL/SQL, and Forms/Reports Development.  
-✨ Passionate about building efficient ERP solutions, automating workflows, and optimizing business processes.  
+✨ Passionate about building efficient ERP solutions, automating workflows, and optimizing business processes. 
 
 ---
 
@@ -58,8 +62,42 @@
 ### 🔹 iSupplier Portal – ASN Validation Controls via OAF
 - Applied **OAF personalizations** to restrict invalid ASN creation.  
 - Configured **Need-By Date & Invoice Date validation rules**.  
-- Implemented **pop-up alert messages** to improve user compliance.  
+- Implemented **pop-up alert messages** to improve user compliance.
+  
+## 📌 Projects Dashboard
 
+<p align="center">
+  
+  <!-- Card 1 -->
+  <a href="https://github.com/Perarul/fusion-apro-payments">
+    <img src="https://img.shields.io/badge/💳%20Fusion%20APRO%20Payments%20&%20Reconciliation-0A0F1C?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2E97FF" />
+  </a>
+  
+  <!-- Card 2 -->
+  <a href="https://github.com/Perarul/ebs-item-enhancements">
+    <img src="https://img.shields.io/badge/🔧%20EBS%20Support%20&%20Enhancements-0A0F1C?style=for-the-badge&logo=databricks&logoColor=white&labelColor=FF5733" />
+  </a>
+  
+  <!-- Card 3 -->
+  <a href="https://github.com/Perarul/prepayment-prescan-form">
+    <img src="https://img.shields.io/badge/💰%20Prepayment%20&%20Pre--Scan%20Form-0A0F1C?style=for-the-badge&logo=oracle&logoColor=white&labelColor=28A745" />
+  </a>
+  
+  <!-- Card 4 -->
+  <a href="https://github.com/Perarul/isupplier-asn-controls">
+    <img src="https://img.shields.io/badge/📦%20iSupplier%20ASN%20Validation%20(OAF)-0A0F1C?style=for-the-badge&logo=oracle&logoColor=white&labelColor=F39C12" />
+  </a>
+  
+</p>
+
+---
+
+## 🏆 Clients & Engagements
+
+- **Pair Soft** → *Fusion APRO Payments & Reconciliation*  
+- **Hofinsoft Technologies** → *EBS Support & Enhancements*  
+- **Shanthi Gears Limited** → *Prepayment & Pre-Scan Form*  
+- **TI Cycles of India** → *iSupplier ASN Validation Controls*  
 ---
 
 ## 🏆 Achievements & Certifications
@@ -85,5 +123,15 @@
 [![Portfolio](https://img.shields.io/badge/E--Portfolio-View-orange)](https://eportfolio.mygreatlearning.com/perarul-selvan-r)  
 
 ---
+✨ Author
+
+👨‍💻 Perarul Selvan R
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F1C&height=120&section=footer&fontColor=FFFFFF" alt="Footer Banner"/>
+</p>
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect.*  
