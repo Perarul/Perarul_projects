@@ -51,6 +51,15 @@
 
 ---
 
+## 🏆 Achievements & Certifications
+- 🥇 Oracle APEX Cloud Developer Professional (1Z0-771)  
+- 🥈 Oracle Fusion Cloud Applications SCM Foundations Associate  
+- 🥈 Oracle Fusion Cloud Applications ERP Foundations Associate  
+- 🎓 Data Analysis Using AI Workshop (Skill Nation)  
+- 📊 Tableau & Data Analytics Workshops  
+
+---
+
 ## 📈 GitHub Stats
 
 ![Perarul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perarul&show_icons=true&theme=tokyonight)  
